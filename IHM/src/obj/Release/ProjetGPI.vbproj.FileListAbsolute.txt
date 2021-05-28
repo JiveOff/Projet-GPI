@@ -1,0 +1,14 @@
+C:\Users\antoi\source\repos\ProjetGPI\bin\Release\Resources\BD.accdb
+C:\Users\antoi\source\repos\ProjetGPI\bin\Release\QuickRecruit.exe.config
+C:\Users\antoi\source\repos\ProjetGPI\bin\Release\QuickRecruit.exe
+C:\Users\antoi\source\repos\ProjetGPI\bin\Release\QuickRecruit.pdb
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.Connexion.resources
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.EspaceCandidat.resources
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.EspaceRH.resources
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.Home.resources
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.Resources.resources
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.vbproj.GenerateResource.cache
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.vbproj.CoreCompileInputs.cache
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\QuickRecruit.exe
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\QuickRecruit.pdb
+C:\Users\antoi\source\repos\ProjetGPI\obj\Release\ProjetGPI.vbprojAssemblyReference.cache
